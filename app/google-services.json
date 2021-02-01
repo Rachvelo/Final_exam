@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177873383356",
+    "project_id": "tasiko",
+    "storage_bucket": "tasiko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177873383356:android:e4e78ca82fd0821d3ec5b9",
+        "android_client_info": {
+          "package_name": "btu.edu.tasiko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177873383356-ghq7rrq5q7psch6l62anke0b8gika4do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qXqo5KbQ11oLad_SgRRL2TqtrBwinnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177873383356-ghq7rrq5q7psch6l62anke0b8gika4do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

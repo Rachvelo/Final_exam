@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main"
+        android:title="მთავარი"
+        android:icon="@drawable/ic_round_home_24"/>
+
+    <item android:id="@+id/edit"
+        android:title="ჩასწორება"
+        android:icon="@drawable/ic_baseline_edit_24"/>
+
+</menu>
